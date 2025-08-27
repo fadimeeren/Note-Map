@@ -470,3 +470,12 @@ aside ul {
     }
   }
 }
+
+select option {
+      background: #1E293B;
+      color: white;
+      padding: 8px 12px;
+    }
+    select option:hover {
+      background: #334155;
+    }
